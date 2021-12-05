@@ -1,3 +1,3 @@
 # Projects
 
-Repositíro destina a organização de cursos
+Repositorio destina a organização de cursos
